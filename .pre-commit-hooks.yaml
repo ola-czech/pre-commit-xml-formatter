@@ -1,0 +1,5 @@
+- id: xml-formatter
+  name: xml-formatter
+  description: A hook for formatting XML files
+  entry: xml-formatter
+  language: python
