@@ -3,3 +3,4 @@
   description: A hook for formatting XML files
   entry: xml-formatter
   language: python
+  types: [xml]
